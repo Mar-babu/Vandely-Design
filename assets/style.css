@@ -1,0 +1,135 @@
+*{margin:0px;padding: 0px;outline: 0px;}
+
+body{
+	background-color: white;
+	padding: 0px;
+}
+.template {margin: 0px auto;}
+.clear{overflow:hidden;}
+
+.navbar{
+	margin: 15px 0;
+	padding-left: 10px;
+
+}
+.navbar-brand{
+	margin-right: 45px;
+	margin-left: 20px;
+}
+.navbar-expand {
+	height: 50px;
+    background-color: #000000;
+    overflow: inherit;
+	margin: auto;
+}
+a{
+	color: #f8f9fa;
+}
+.nav-link {
+    display: block;
+    margin-left: 2px;
+    padding: 0.1rem 1rem;
+    color: blue;
+}
+
+.nav-btn{
+	
+	background-color: #225F64;
+	border: none;
+	height: 25px;
+	margin-right: 5px;
+	margin-left: 55px;
+	display: block;
+
+}
+.nav-bt{
+
+	background-color: #9BCD65;
+	border: none;
+	height: 25px;
+	width: 82px;
+	display: block;
+}
+
+.nav-btn a{
+	color: #FFFFFF;
+}
+.nav-bt a{
+	color: #FFFFFF;
+}
+.contentsection{
+	margin-top: 10%;
+}
+.maincontent {
+padding-left: 158px;
+float: left;
+}
+
+
+img {
+    width: 340px;
+    height: 150px;
+
+}
+
+.sidebar-content{
+    padding-right: 140px;
+    float: right;
+}
+.sidebar-content h2{
+	text-align: left;
+}
+.sidebar-content p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    width: 412px;
+}
+@media (min-width: 1280px)
+	.mt-lg-0, .my-lg-0 {
+    margin-top: 1;
+}
+
+
+.footersection{
+
+
+
+}
+
+.f1{
+	width: 33.33%;
+	margin-top: 14%;
+	background: #A8A8A8 no-repeat scroll;
+	float: left;
+	padding-left: 122px;
+	position: relative;
+
+
+}
+
+.f2{
+	width: 33.33%;
+	margin-top: 14%;
+	background: #A8A8A8 none repeat scroll 0 0;
+	float: center;
+	display: inline-block;
+	position: absolute;
+}
+
+.f3{
+	width: 33.33%;
+	margin-top: 14%;
+	background: #A8A8A8 none repeat scroll 0 0;
+	float: right;
+	padding: 0px 81px 0px 0px;
+	display: inline-block;
+
+	
+}
+
+h2{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
